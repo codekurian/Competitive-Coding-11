@@ -12,6 +12,8 @@
 
 
 // Your code here along with comments explaining your approach
+//TC:O(N*M)
+//SC:O(N)
 import java.util.*;
 
 class Problem1 {
